@@ -122,26 +122,31 @@ The project is divided into two parts: frontend and backend.
 
 ### Backend Server
 
-![Backend](https://github.com/user-attachments/assets/96b5bf64-5636-4d6c-a8d2-96d7312ddac0)
+![Backend](https://github.com/user-attachments/assets/bcd387f1-2061-4210-90f0-86bf4d887076)
+
 
 ### Frontend Encrypt UI(Before)
 
-![Ecy-start](https://github.com/user-attachments/assets/e3a661e2-14f9-496b-a120-a5654b21dd23)
+![Ecy-start](https://github.com/user-attachments/assets/a61093a0-01c1-46c8-b79c-974b69c0a9ef)
+
 
 
 ### Frontend Encrypt UI(After)
 
-![Ecy-end](https://github.com/user-attachments/assets/43438951-5c3c-47ef-a8e1-324a7595001f)
+![Ecy-end](https://github.com/user-attachments/assets/c70887fb-bd1e-492b-bbe8-fc9935ac26b6)
+
 
 
 ### Frontend Decrypt UI(Before)
 
-![Dcy-start](https://github.com/user-attachments/assets/0d1cd844-054c-4506-8f9b-6eb1b0e1a960)
+![Dcy-start](https://github.com/user-attachments/assets/b74b92a9-1625-4bc0-a851-a372782c5a6d)
+
 
 
 ### Frontend Decrypt UI(After)
 
-![Dcy-end](https://github.com/user-attachments/assets/c0db8035-c7d9-4321-91b9-03ea9ded6b6c)
+![Dcy-end](https://github.com/user-attachments/assets/224277b1-2152-4a5e-97fd-08ab4dfadbe7)
+
 
 
 ## Security Considerations
